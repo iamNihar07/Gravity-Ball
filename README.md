@@ -1,2 +1,2 @@
 # Gravity-Ball
-gaming application made for CSE 3311 Object Oriented Software Engineering course at University of Texas at Arlington
+Vision: Gravity Bounce is a mobile game application for Android and iOS devices that follows a vertical platform style of gameplay. This game will not be available as a desktop application, and will not include online multiplayer functionality. In this game the player will bounce off obstacles, avoid dangerous spikes, and literally rise to victory in a brand new adventure. See if you can reach the last level, and bounce your way to the top of the leaderboards.
