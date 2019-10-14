@@ -20,7 +20,7 @@ public class CameraResolution : MonoBehaviour
 
         if (Screen.width == ScreenSizeX && Screen.height == ScreenSizeY) return;
 
-        // Sets the target aspect ration -> default being 9/16 (supports most phones)
+        // Sets the target aspect ratio -> default being 9/16 (supports most phones)
         float targetaspect = 9.0f / 16.0f;
         float windowaspect = (float)Screen.width / (float)Screen.height;
         float scaleheight = windowaspect / targetaspect;
