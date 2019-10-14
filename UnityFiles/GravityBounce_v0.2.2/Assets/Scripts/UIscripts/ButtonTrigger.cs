@@ -89,9 +89,14 @@ public class ButtonTrigger : EventTrigger
                 }
 
                 break;
-            case "BackMain":
-                        changeScene.LoadMainMenu();
-                        break;
+            
+            case "1-1 Image":
+                changeScene.Load_1_1();
+                break;
+            
+            case "2-1 Image":
+                changeScene.Load_2_1();
+                break;
             
             case "NextArrow":
                 if (scene == "Theme1Select")
